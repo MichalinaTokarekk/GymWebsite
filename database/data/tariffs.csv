@@ -1,0 +1,20 @@
+name;type;number;price
+Wejście pojedyńcze;ilościowy;1;15.00;
+Pakiet wejść;ilościowy;4;50.00;
+Pakiet wejść;ilościowy;8;95.00;
+Zawieszenie karnetu;ilościowy;1;20.00;
+Karnet zwykły;okresowy;30;150.00;
+Karnet ulgowy (uczeń, student);okresowy;30;100.00;
+Karnet rehabilitacyjny zwykły;okresowy;30;110.00;
+Karnet rehabilitacyjny ulgowy (uczeń, student);okresowy;30;95.00;
+Trening personalny;ilościowy;1;30.00;
+Trening personalny;ilościowy;4;100.00;
+Trening personalny;ilościowy;8;185.00;
+Karnet na zajęcia grupowe;okresowy;14;100.00;
+Karnet na zajęcia grupowe;okresowy;30;180.00;
+Karnet open;okresowy;30;180.00;
+Pakiet EMS;ilościowy;5;200.00;
+Pakiet EMS;ilościowy;10;300.00;
+Pakiet coatching;ilościowy;2;100.00;
+Konsultacja dietetyczna;ilościowy;1;80.00;
+Konsultacja fizjoterapeutyczna;ilościowy;1;80.00;
